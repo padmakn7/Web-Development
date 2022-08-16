@@ -1,4 +1,4 @@
-let fighters = ["A", "B", "C", "D", "E"];
+let fighters = ["😀", "😃", "😄", "😁", "😆", "😅", "😂", "🤣"];
 let stageEl = document.getElementById("stage");
 let fightButton = document.getElementById("fightButton");
 
