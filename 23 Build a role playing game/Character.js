@@ -2,7 +2,7 @@ import {
   getDiceRollArray,
   getDicePlaceholderHtml,
   getPercentage,
-} from "./utils";
+} from "./utils.js";
 
 /*
 Challenge
